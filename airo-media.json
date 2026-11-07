@@ -1,0 +1,37 @@
+{
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-horizontal-1a1c6497.png",
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-horizontal-1a1c6497.png",
+    "naturalOrientation": "horizontal"
+  },
+  "pages/home/hero": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-hero-39f10347.jpg"
+  },
+  "pages/home/data-report": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-data-report-629cc69d.jpg"
+  },
+  "logo/primary": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-primary-00cd0684.png",
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-primary-00cd0684.png",
+    "naturalOrientation": "square"
+  },
+  "logo/vertical": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-vertical-7d12afe7.png",
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-vertical-7d12afe7.png",
+    "naturalOrientation": "vertical"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-favicon-4c674762.png",
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-favicon-4c674762.png"
+  },
+  "pages/home/complejo": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-complejo-34417b21.jpg"
+  }
+}
